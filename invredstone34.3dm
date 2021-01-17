@@ -1,0 +1,8 @@
+{
+  label = "torus",
+  emitRedstone = true,
+  shapes = {
+    { 0,0,0,1,1,1,texture = "iron_block", tint = 0x000000 },
+
+  }
+},
